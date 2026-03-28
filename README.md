@@ -10,7 +10,7 @@ Cada diretório tem seu objetivo de organização dos arquivos. Segue a descriç
 
 ## arduino
 ## backend
-## design-ux-ui
+## Design / UX / UI
 ## documentacao
 ## frontend
 ## gateway
